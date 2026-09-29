@@ -19,6 +19,6 @@ The program works via using the pynput module and it first defines a variable na
 ## Ethical Considerations
 There are many ethical considerations when using a keylogger, for example there is a violation to personal privacy as business may implement a type of logging technology to track their employees or in extreme cases, a government that intentionaly tracks their citazen's devices (such as the infamous Red Star OS).
 
-Another point of ethical consideration is the legal perspective, since this can be classified as malware it is unethical to run this without permission of the owner or to use on their devices. Running this without thier permission could potentially live **YOU** the potential to be charged with cybercrime. 
+Another point of ethical consideration is the legal perspective, since this can be classified as malware it is unethical to run this without permission of the owner or to use on their devices. Running this without thier permission could potentially leave **YOU** the potential to be charged with cybercrime. 
 
 As I stated above, this is purely for educational purpose only and I am not legally responsible for any damage you may cause running this program.
